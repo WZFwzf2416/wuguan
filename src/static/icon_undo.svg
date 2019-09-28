@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="44px" height="44px" viewBox="0 0 44 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>icon_undo</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="切图" transform="translate(-235.000000, -128.000000)">
+            <g id="icon_undo_un备份" transform="translate(235.000000, 128.000000)">
+                <rect id="矩形" fill="#353535" x="0" y="0" width="44" height="44" rx="2"></rect>
+                <g id="icon_undo" transform="translate(7.000000, 6.000000)" fill-rule="nonzero">
+                    <rect id="矩形" fill="#000000" opacity="0" x="0" y="0" width="30" height="30"></rect>
+                    <path d="M15.541875,12.87125 L15.361875,12.87125 L15.361875,8.86625 C15.361875,7.368125 14.503125,6.74375 13.44375,7.596875 L3.598125,15.516875 C2.540625,16.36625 2.540625,17.7575 3.601875,18.606875 L13.3725,26.448125 C14.431875,27.2975 15.36375,26.435 15.36375,25.17125 L15.36375,20.945 L16.843125,20.945 C21.11625,20.945 24.376875,22.79 26.371875,26.3525 C26.76375,26.999375 27.17625,26.85875 27.17625,26.3525 C27.09,20.0075 21.71625,12.87125 15.541875,12.87125 Z" id="路径" fill="#FFFFFF"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

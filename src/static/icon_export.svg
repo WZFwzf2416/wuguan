@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="44px" height="44px" viewBox="0 0 44 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>icon_export</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="切图" transform="translate(-367.000000, -71.000000)">
+            <rect fill="#292929" x="0" y="0" width="1920" height="1024"></rect>
+            <g id="导入备份" transform="translate(367.000000, 71.000000)">
+                <rect id="矩形" fill="#353535" x="0" y="0" width="44" height="44" rx="2"></rect>
+                <g id="icon_export" transform="translate(8.000000, 8.000000)" fill-rule="nonzero">
+                    <polygon id="形状" fill="#1890FF" transform="translate(14.000000, 9.100000) scale(1, -1) translate(-14.000000, -9.100000) " points="12.425 0 12.425 9.1 7.7 9.1 14 18.2 20.3 9.1 15.575 9.1 15.575 0"></polygon>
+                    <polygon id="路径" fill="#FFFFFF" points="28 28 0 28 0 16.975 1.925 16.975 1.925 26.075 26.075 26.075 26.075 16.975 28 16.975"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

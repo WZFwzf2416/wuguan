@@ -1,0 +1,41 @@
+.compassContent{
+  color: #fff;
+  .optionsContain{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    border-bottom: 1px solid rgba(204,204,204,0.2);
+    padding: 20px 0 10px;
+    >div{
+      cursor: pointer;
+      width: 120px;
+      height: 140px;
+      border: 1px solid #555;
+      display: flex;
+      align-items: center;
+      flex-direction: column;
+      justify-content: center;
+      margin-bottom: 10px;
+      &:nth-of-type(2n-1) {
+        margin-right: 10px;
+      }
+      .region{
+        width: 44px;
+        height: 44px;
+        border: 1px dashed #fff;
+        box-sizing: border-box;
+      }
+      .dashedContain{
+        width: 44px;
+        height: 44px;
+        display: flex;
+        align-items: center;
+        .dashed{
+          width: 44px;
+          border-top: 1px dashed #A1A1A1;
+          box-sizing: border-box;
+        }
+      }
+    }
+  }
+}

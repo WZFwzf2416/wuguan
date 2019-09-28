@@ -1,0 +1,73 @@
+.tab{
+  position: absolute;
+  left: 0;
+  //top: 88px;
+  z-index: 500;
+  .subTab {
+    width: 70px;
+    background-color: #454545;
+    height: 881px;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    >div{
+      background-color: #272727;
+    }
+    .compass, .device{
+      padding: 15px 0;
+      cursor: pointer;
+    }
+    .compassActiveCompass{
+      background-color: #454545;
+    }
+    .deviceActiveCompass{
+      border-bottom-right-radius:12px;
+    }
+    .device{
+      border-top-right-radius:12px;
+    }
+    .deviceActiveDevice{
+      background-color: #454545;
+    }
+    .blank{
+      flex: 798px;
+    }
+    .deviceActiveBlank{
+      border-top-right-radius:12px;
+    }
+  }
+  .shapeBlock {
+    position: absolute;
+    top: 0;
+    left: 70px;
+    width: 290px;
+    height: 881px;
+    background-color: #454545;
+    transition: all, .6s;
+    z-index: -1;
+    .leftArrow{
+      position: absolute;
+      top: 50%;
+      right: 0;
+      transform: translate(100%, -50%);
+      color: #fff;
+      height: 100px;
+      width: 0;
+      border-top: 20px solid transparent;
+      border-bottom: 20px solid transparent;
+      border-left: 20px solid #454545;
+      border-right: 20px solid transparent;
+      cursor: pointer;
+      >i{
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-100%,-50%);
+        z-index: 999;
+      }
+    }
+  }
+  .shapeBlockTransition{
+    transform: translateX(-100%);
+  }
+}

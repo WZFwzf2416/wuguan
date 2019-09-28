@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="44px" height="44px" viewBox="0 0 44 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>backwhite</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="切图" transform="translate(-639.000000, -266.000000)" fill-rule="nonzero">
+            <g id="背靠背" transform="translate(639.000000, 266.000000)">
+                <g id="backwhite">
+                    <circle id="Oval" fill="#D8D8D8" opacity="0.200000003" cx="22" cy="22" r="22"></circle>
+                    <g id="Group-3" transform="translate(10.153846, 11.846154)">
+                        <rect id="Rectangle" stroke="#FFFFFF" x="0.5" y="0.5" width="24.3846154" height="7.46153846" rx="1"></rect>
+                        <rect id="Rectangle" fill="#FFFFFF" x="3.38461538" y="3.38461538" width="1.69230769" height="1.69230769"></rect>
+                        <path d="M2.38602064,7.26923077 L7.12961038,21.5 L18.255005,21.5 L22.9985947,7.26923077 L2.38602064,7.26923077 Z" id="Rectangle" stroke="#FFFFFF"></path>
+                        <path d="M4.80578233,13.5384615 C3.01134117,14.0285254 1.69230769,15.6702918 1.69230769,17.620135 C1.69230769,19.9567243 3.5864876,21.8509042 5.92307692,21.8509042 C6.63033088,21.8509042 7.29705169,21.6773612 7.88297906,21.3705353" id="Path" stroke="#FFFFFF"></path>
+                        <path d="M20.8827054,13.5384615 C19.0882642,14.0285254 17.7692308,15.6702918 17.7692308,17.620135 C17.7692308,19.9567243 19.6634107,21.8509042 22,21.8509042 C22.707254,21.8509042 23.3739748,21.6773612 23.9599021,21.3705353" id="Path" stroke="#FFFFFF" transform="translate(20.864566, 17.694683) scale(-1, 1) translate(-20.864566, -17.694683) "></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

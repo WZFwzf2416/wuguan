@@ -1,0 +1,13 @@
+c<?xml version="1.0" encoding="UTF-8"?>
+<svg width="15px" height="15px" viewBox="0 0 15 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>icon_plus</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="切图" transform="translate(-717.000000, -314.000000)" fill="#D8D8D8" stroke="#979797">
+            <g id="编组-2" transform="translate(717.000000, 314.000000)">
+                <path d="M7,1 L7,7 L1,7 C0.723857625,7 0.5,7.22385763 0.5,7.5 C0.5,7.77614237 0.723857625,8 1,8 L7,8 L7,14 C7,14.2761424 7.22385763,14.5 7.5,14.5 C7.77614237,14.5 8,14.2761424 8,14 L8,8 L14,8 C14.2761424,8 14.5,7.77614237 14.5,7.5 C14.5,7.22385763 14.2761424,7 14,7 L8,7 L8,1 C8,0.723857625 7.77614237,0.5 7.5,0.5 C7.22385763,0.5 7,0.723857625 7,1 Z" id="icon_plus"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="44px" height="44px" viewBox="0 0 44 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>quanjingwhite</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="切图" transform="translate(-502.000000, -271.000000)" fill-rule="nonzero">
+            <g id="全景" transform="translate(502.000000, 271.000000)">
+                <g id="quanjingwhite">
+                    <circle id="Oval" fill="#D8D8D8" opacity="0.200000003" cx="22" cy="22" r="22"></circle>
+                    <rect id="Rectangle" stroke="#FFFFFF" x="6.76923077" y="13.5384615" width="30.4615385" height="16.9230769" rx="8.46153846"></rect>
+                    <circle id="Oval" stroke="#FFFFFF" cx="13.5384615" cy="22" r="3.38461538"></circle>
+                    <circle id="Oval-Copy" stroke="#FFFFFF" cx="30.4615385" cy="22" r="3.38461538"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

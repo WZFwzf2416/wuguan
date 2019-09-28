@@ -1,0 +1,34 @@
+.head{
+  width: 100%;
+  background-color: #272727;
+  height: 88px;
+  display: flex;
+  align-items: center;
+  .logo{
+    color: #fff;
+    font-size: 24px;
+    letter-spacing: 3px;
+    margin-left: 18px;
+  }
+  .btnContain{
+    display: flex;
+    margin-left: 150px;
+    color: #fff;
+    >div>div{
+      width: 44px;
+      text-align: center;
+    }
+    button{
+      margin-right: 22px;
+      width: 44px;
+      height: 44px;
+    }
+    .ant-btn{
+      padding: 0;
+      border: none;
+    }
+  }
+  .ant-upload-list{
+    display: none;
+  }
+}
